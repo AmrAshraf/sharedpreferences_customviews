@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://D:\support-android\sharedpreferences_customviews-master\app\app.iml" filepath="D:\support-android\sharedpreferences_customviews-master\app\app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sharedpreferences_customviews-master.iml" filepath="$PROJECT_DIR$/sharedpreferences_customviews-master.iml" />
+      <module fileurl="file://D:\support-android\sharedpreferences_customviews-master\support.iml" filepath="D:\support-android\sharedpreferences_customviews-master\support.iml" />
+    </modules>
+  </component>
+</project>
