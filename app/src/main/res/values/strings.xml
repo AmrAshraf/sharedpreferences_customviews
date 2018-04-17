@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">SharedPreferences-CustomViews</string>
+    <string name="login_shared_preferences">loginSharedPref</string>
+
+    <string name="user_name">name</string>
+    <string name="user_email">email</string>
+    <string name="auto_login">autoLogin</string>
+
 </resources>
